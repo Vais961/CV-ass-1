@@ -66,7 +66,7 @@ def Gaussian_Blur(img,k_size):
     return blur_image
 
 def main_opration():
-    st.title("Compuetr Vision")
+    st.title("Computer Vision")
     st.header("Practical No. 01")
 
     # st.subheader("")
